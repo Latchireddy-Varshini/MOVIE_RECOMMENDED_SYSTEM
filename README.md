@@ -1,2 +1,2 @@
 # MOVIE_RECOMMENDED_SYSTEM
-Recommending movies.
+Recommends movies based on users choice.
